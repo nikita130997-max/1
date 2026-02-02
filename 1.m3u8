@@ -1,102 +1,340 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="IHOME РОССИЯ" tvg-id="pervy", Первый канал
+#EXTINF:-1 group-title="Федеральные" tvg-id="pervy", Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="pervy", ПЕРВЫЙ КАНАЛᴴᴰ
+#EXTINF:-1 group-title="Федеральные" tvg-id="pervy", ПЕРВЫЙ КАНАЛᴴᴰ
 http://31.148.48.15:80/Pervii_kanal_HD/index.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-id="pervy-kanal-eu" tvg-logo="http://epg.one/img2/4830.png", Первый канал Европа FD
+#EXTINF:-1 group-title="Федеральные" tvg-id="pervy-kanal-eu" tvg-logo="http://epg.one/img2/4830.png", Первый канал Европа FD
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="pervy-pl4" tvg-logo="http://rafail1982.uz/logo/Первый канал +4.png", Первый канал +4
+#EXTINF:-1 group-title="Федеральные" tvg-id="pervy-pl4" tvg-logo="http://rafail1982.uz/logo/Первый канал +4.png", Первый канал +4
 http://dmitry-tv.ddns.net/hls/T2/CH_1TV_4.m3u8
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="pervy-pl4" tvg-logo="https://i.postimg.cc/8c382rxX/82a354c357cde76a13e246bd2c031834.jpg", Первый канал (+4) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="pervy-pl4" tvg-logo="https://i.postimg.cc/8c382rxX/82a354c357cde76a13e246bd2c031834.jpg", Первый канал (+4) HD
 http://37.193.89.200:81/udp/239.1.15.20:1234
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="rossia1", РОССИЯ 1
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1", РОССИЯ 1
 http://185.46.16.239:8000/Rossiya_1
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png", РОССИЯ 1ᴴᴰ
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png", РОССИЯ 1ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png", Россия РТР SD
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png", Россия РТР SD
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png", РОССИЯ РТР АЗИЯ SD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png", РОССИЯ РТР АЗИЯ SD
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png", РОССИЯ РТР СНГ SD
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png", РОССИЯ РТР СНГ SD
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-#EXTINF:-1 group-title="8.БЕЛАРУСЬ 🇧🇾" tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-belarus.png", РТР Беларусь
+#EXTINF:-1 group-title="Федеральные" tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-belarus.png", РТР Беларусь
 http://194.158.222.36:6106
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-id="rtr-planeta-eu", PLANETA RTR Европа SD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rtr-planeta-eu", PLANETA RTR Европа SD
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-id="rtr-planeta-amerika" tvg-logo="http://1lot.tv/ch/6517.png", PLANETA RTR США SD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rtr-planeta-amerika" tvg-logo="http://1lot.tv/ch/6517.png", PLANETA RTR США SD
 http://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 group-title="РОССИЯ.РЕГИОНЫ 🇷🇺" tvg-id="rossia1", Россия 1 / ГТРК Тула HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1", Россия 1 / ГТРК Тула HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl1", Россия 1 (+1) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl1", Россия 1 (+1) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl2", Россия 1 (+2) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl2", Россия 1 (+2) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl3", Россия 1 (+3) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl3", Россия 1 (+3) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl4", Россия 1 (+4) FD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl4", Россия 1 (+4) FD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl4", Россия 1 (+4) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl4", Россия 1 (+4) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl5", Россия 1 (+5) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl5", Россия 1 (+5) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl6", Россия 1 (+6)
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl6", Россия 1 (+6)
 http://31.148.48.15:80/Rossiya_1/index.m3u8?token=test
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl6", Россия 1 (+6) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl6", Россия 1 (+6) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl7", Россия 1 (+7) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl7", Россия 1 (+7) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl8", Россия 1 (+8) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl8", Россия 1 (+8) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="6.РОССИЯ+ 🇷🇺" tvg-id="rossia1-pl9", Россия 1 (+9) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1-pl9", Россия 1 (+9) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региoнальные" tvg-id="pervy-tulsky" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/nclogo1524672781681.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый Тульский HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="pervy-tulsky" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/nclogo1524672781681.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый Тульский HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
-#EXTINF:-1 group-title="33.МАТЧ ⚾" tvg-id="match-tv", Матч! SD
+#EXTINF:-1 group-title="Федеральные" tvg-id="match-tv", Матч! SD
 http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8&token=dmVsZXM2OTg6dGVsZXZpem9yZGV4cA==&hash=VGtMRUp0SThPTlhQejZOTDZOak9YMDdHUWo0K1Ixd0tQRnBKb1NtQUJpQT06OhUTkCJO0ykGN8zXHBB63vk%3D
-#EXTINF:-1 group-title="33.МАТЧ ⚾" tvg-id="match-tv", МАТЧ! HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="match-tv", МАТЧ! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="ntv", НТВ
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv", НТВ
 http://5.188.221.43:8080/play/ntv
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="ntv" tvg-logo="http://1lot.tv/ch/2201.png", НТВᴴᴰ
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv" tvg-logo="http://1lot.tv/ch/2201.png", НТВᴴᴰ
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="Федеральные", НТВ (+2)
 http://85.88.175.48:2020/udp/239.4.0.143:2020
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="ntv-pl4" tvg-logo="http://rafail1982.uz/logo/НТВ.png", НТВ +4
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-pl4" tvg-logo="http://rafail1982.uz/logo/НТВ.png", НТВ +4
 http://dmitry-tv.ddns.net/hls/T2/CH_NTV_4.m3u8
-#EXTINF:-1 group-title="8.БЕЛАРУСЬ 🇧🇾" tvg-id="ntv-belarus" tvg-logo="https://i.ibb.co/c1g7szL/5dab35325703523a14a5e14bff2da665.jpg", НТВ БЕЛАРУСЬ
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-belarus" tvg-logo="https://i.ibb.co/c1g7szL/5dab35325703523a14a5e14bff2da665.jpg", НТВ БЕЛАРУСЬ
 http://194.158.222.36:6107
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="5kanal-ru", ПЯТЫЙ КАНАЛ
+#EXTINF:-1 group-title="Федеральные" tvg-id="5kanal-ru", ПЯТЫЙ КАНАЛ
 http://95.47.156.60:8000/play/5/index.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-id="piaty-int" tvg-logo="https://iptvx.one/picons/piaty-int.png", Пятый канал International
+#EXTINF:-1 group-title="Федеральные" tvg-id="piaty-int" tvg-logo="https://iptvx.one/picons/piaty-int.png", Пятый канал International
 http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="5kanal-ru-pl4" tvg-logo="http://rafail1982.uz/logo/Пятый канал +4.png", Пятый канал +4
+#EXTINF:-1 group-title="Федеральные" tvg-id="5kanal-ru-pl4" tvg-logo="http://rafail1982.uz/logo/Пятый канал +4.png", Пятый канал +4
 http://dmitry-tv.ddns.net/hls/T2/CH_5TV_4.m3u8
 #EXTINF:-1 group-title="Федеральные", Пятый канал (+7)
 http://85.88.175.48:2020/udp/239.4.0.149:2020
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="kultura", РОССИЯ К
+#EXTINF:-1 group-title="Федеральные" tvg-id="kultura", РОССИЯ К
 http://95.47.156.60:8000/play/6/index.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵" tvg-id="kultura" tvg-logo="http://rafail1982.uz/logo/Россия К.png", РОССИЯ Кᴴᴰ
+#EXTINF:-1 group-title="Федеральные" tvg-id="kultura" tvg-logo="http://rafail1982.uz/logo/Россия К.png", РОССИЯ Кᴴᴰ
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="kultura-pl2" tvg-logo="http://1lot.tv/ch/7570.png", Россия К (+2)
+#EXTINF:-1 group-title="Федеральные" tvg-id="kultura-pl2" tvg-logo="http://1lot.tv/ch/7570.png", Россия К (+2)
 http://31.148.48.15/TDK/index.m3u8
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="kultura-pl2" tvg-logo="http://rafail1982.uz/logo/Россия К.png", Россия К (+2) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="kultura-pl2" tvg-logo="http://rafail1982.uz/logo/Россия К.png", Россия К (+2) HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="kultura-pl4" tvg-logo="https://iptvx.one/picons/kultura-pl4.png", Россия К (+4)
+#EXTINF:-1 group-title="Федеральные" tvg-id="kultura-pl4" tvg-logo="https://iptvx.one/picons/kultura-pl4.png", Россия К (+4)
 http://dmitry-tv.ddns.net/hls/T2/CH_RUSSIAK_4.m3u8
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="kultura-pl4" tvg-logo="https://iptvx.one/picons/kultura-pl4.png", Россия К (+4) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="kultura-pl4" tvg-logo="https://iptvx.one/picons/kultura-pl4.png", Россия К (+4) HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные", Россия К (+7)
 http://85.88.175.48:2020/udp/239.4.0.161:2020
-#EXTINF:-1 group-title="5.ЭФИРНЫЕ ✦" tvg-id="kultura-pl7", Россия К (+7) HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="kultura-pl7", Россия К (+7) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="2.НОВОСТИ 👁‍🗨" tvg-id="rossia-24", РОССИЯ 24
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia-24", РОССИЯ 24
 http://91.210.192.13:1000/russia-24
-#EXTINF:-1 group-title="2.НОВОСТИ 👁‍🗨" tvg-id="rossia-24" tvg-logo="http://epg.it999.ru/img2/1683.png", РОССИЯ 24ᴴᴰ
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia-24" tvg-logo="http://epg.it999.ru/img2/1683.png", РОССИЯ 24ᴴᴰ
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ Int. 🧿" tvg-logo="http://1lot.tv/ch/0302.png", РОССИЯ 24 Intern. FD
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://1lot.tv/ch/0302.png", РОССИЯ 24 Intern. FD
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
-#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Россия 24 (+2)
+#EXTINF:-1 group-title="Федеральные", Россия 24 (+2)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
-#EXTINF:-1 group-title="РОССИЯ 24 + FD", Россия 24 (Тула)
+#EXTINF:-1 group-title="Федеральные", Россия 24 (Тула)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="karusel", Карусель
+http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="karusel-int", Карусель International SD
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="otr", ОТР
+http://dmitry-tv.ddns.net/hls/T2/CH_OTR_4.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="tvcentr", ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png", ТВЦᴴᴰ
+http://87.76.32.36:8001/tvc
+#EXTINF:-1 group-title="Федеральные" tvg-id="tvcentr-pl4" tvg-logo="http://rafail1982.uz/logo/ТВЦ +4.png", ТВЦ +4
+http://dmitry-tv.ddns.net/hls/T2/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="rentv", РЕН ТВ
+http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png", РЕН ТВ International SD 1
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png", РЕН ТВ International 2
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Федеральные" tvg-id="rentv-pl2", РЕН ТВ (+2)
+http://178.134.1.158:8081/RENTV/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="Федеральные" tvg-id="rentv-pl4", РЕН ТВ (+4)
+http://dmitry-tv.ddns.net/hls/T2/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="Федеральные", Рен ТВ (+7)
+http://85.88.175.48:2020/udp/239.4.0.20:2020
+#EXTINF:-1 group-title="Федеральные" tvg-id="spas", Спас
+http://95.47.156.60:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sts", СТС
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/506/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png", СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sts-pl2", СТС (+2)
+http://94.230.128.107:8080/CTC/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sts-pl4", СТС (+4)
+http://dmitry-tv.ddns.net/hls/T2/CH_STS_4.m3u8
+#EXTINF:-1 group-title="Федеральные", СТС (+7)
+http://85.88.175.48:2020/udp/239.4.0.208:2020
+#EXTINF:-1 group-title="Федеральные" tvg-id="domashny", ДОМАШНИЙ
+http://95.47.156.60:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="domashny-int" tvg-logo="https://iptvx.one/picons/domashny-int.png", Домашний International SD
+http://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Федеральные" tvg-id="tv3-ru", ТВ3
+http://dmitry-tv.ddns.net/hls/T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="piatnica", ПЯТНИЦА!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="piatnica-int" tvg-logo="https://iptvx.one/picons/piatnica-int.png", Пятница! International
+http://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="zvezda", ЗВЕЗДА
+http://95.47.156.60:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="zvezda" tvg-logo="http://1lot.tv/ch/6763.png", ЗВЕЗДАᴴᴰ
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="zvezda-pl4", Звезда (+4)
+http://vod.tuva.ru:8080/zvezda/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mir", МИР
+http://95.47.156.60:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png", МИРᴴᴰ
+http://dmitry-tv.ddns.net/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mir-pl2", Мир (+2)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mir-pl4", Мир (+4)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mir-pl7", Мир (+7)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="tnt", ТНТ
+http://95.47.156.60:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="Федеральные", ТНТ HD
+http://185.58.205.1:4022/udp/224.0.90.224:1234
+#EXTINF:-1 group-title="Федеральные" tvg-id="tnt-int-cis" tvg-logo="https://iptvx.one/picons/tnt-int-cis.png", ТНТ International
+http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="tnt-pl4", ТНТ (+4)
+http://dmitry-tv.ddns.net/hls/T2/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="muztv", Муз ТВ
+http://95.47.156.60:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="Федеральные", МузТВᴴᴰ
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://1lot.tv/ch/1312.png", СОЛНЦЕ FD
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="hd-life", Точка.РФ SD
+http://31.148.48.15:80/HD_Life/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="hd-life", Точка.РФ HD
+https://vod.splay.uz/live_splay/original/HDL_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinosvidanie", Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinosvidanie", Киносвидание HD
+https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinouzhas", Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinomiks", Киномикс
+http://194.32.242.245/kinomiks/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinomiks", Киномикс HD
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="zee-tv", Индия
+http://31148.rafail1982.uz/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="muzhskoe-kino", Мужское Кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="Федеральные" tvg-id="muzhskoe-kino", Мужское кино HD
+http://tinyurl.com/TvZaTak35/Mujskoe-KinoHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinokomedia", Кинокомедия
+http://194.32.242.245/kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinokomedia", Кинокомедия HD
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kuxnia-tv", Кухня
+http://31.148.48.15:80/Kuhnya_TV/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="indiyskoe-kino", Индийское кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kinoseria", Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="Федеральные" tvg-id="2na2" tvg-logo="http://rafail1982.uz/logo/2x2.png", 2x2
+http://31.148.48.15/2x2/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Федеральные" tvg-id="moya-planeta", Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="moya-planeta", Моя Планета HD
+http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 group-title="Федеральные" tvg-id="nauka-20", Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="nauka-20", Наука HD
+http://31.148.48.15:80/Nauka_2.0/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mult", Мульт
+http://31.148.48.15:80/Mult/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mult", Мульт HD
+http://31.148.48.15:80/Mult_HD/index.m3u8
+#EXTINF:-1 group-title="Федеральные", FAN
+http://185.58.205.1:4022/udp/224.0.90.176:1234
+#EXTINF:-1 group-title="Федеральные" tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png", FAN HD
+http://31.148.48.15:80/Fan/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="russkaya-komedia", Комедия ✘
+https://tv.tvcdnpotok.com/cwJuaDR_VQHMLAh-Rl8mGw/510/1770084679/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="russky-detektiv", Русский Детектив
+http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="istoria", История
+http://31.148.48.15:80/Istoriya/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="istoria", История HD
+https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="ani", Ani
+http://31148.rafail1982.uz/Ani/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sarafan", Сарафан
+http://31.148.48.15:80/Sarafan/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="multimuzyka", Мульт и музыка
+http://31.148.48.15:80/Multimuzika/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="nst", НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="cinema-ru", CINEMA
+http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="doktor", Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="doktor", Доктор HD
+http://31.148.48.15:80/Doktor/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="texno-24", Т24
+https://vod.splay.uz/live_splay/original/Tehno_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mama", Мама
+http://31.148.48.15:80/Mama/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="zhivaya-planeta", Живая Планета
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 group-title="Федеральные", Москва Доверие
+http://185.58.205.1:4022/udp/224.0.90.229:1234
+#EXTINF:-1 group-title="Федеральные" tvg-id="solovjinypomiot" tvg-logo="http://rafail1982.uz/logo/Соловьев Live.png", СОЛОВЬЁВ LIVE
+http://31.148.48.15:80/EuroNews/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png", СОЛОВЬЁВ LIVEᴴᴰ
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="domkino", Дом кино
+http://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="muzyka-pervogo", Музыка первого
+http://193.25.8.59:8000/muzika
+#EXTINF:-1 group-title="Федеральные" tvg-id="tnt4", ТНТ4
+http://31.148.48.15/TNT4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png", ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="avto-plus", Авто Плюс
+http://31148.rafail1982.uz/Avto_Plus/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="izvestia", ИЗВЕСТИЯ
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="izvestia", Известия HD
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="terra-ru", Terra
+http://31.148.48.15/Terra/index.m3u8
+#EXTINF:-1 group-title="Федеральные", Star Cinema
+http://tinyurl.com/TvZaTak35/Star_Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="Star Cinema HD" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Star%20Cinema%20HD.png", Star Cinema HD
+http://bpl.online24.pm/play/9965/75BA4FC1CA5013E/mpegts
+#EXTINF:-1 group-title="Федеральные" tvg-id="Star Family HD" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Star%20Family%20HD.png", Star Family HD
+http://bpl.online24.pm/play/9963/75BA4FC1CA5013E/mpegts
+#EXTINF:-1 group-title="Федеральные", BOLT ✘
+https://stream18.sputnik24.tv/bolt/480p/index.m3u8?sig=1770096524_3bea1e5a1d4f730d63c35f1de63b58aa
+#EXTINF:-1 group-title="Федеральные" tvg-id="che", ЧЕ!
+http://31148.rafail1982.uz/Che/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sts-love", СТС Love
+http://31148.rafail1982.uz/STS_Love/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png", СТС Kids
+http://178.124.153.123:44400/stskids
+#EXTINF:-1 group-title="Федеральные" tvg-id="sts-kids-hd", СТС Kids HD
+http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="kineko", Кинеко
+http://193.25.8.59:8000/fox
+#EXTINF:-1 group-title="Федеральные" tvg-id="kineko", Кинеко HD
+http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sapfir", Сапфир
+http://31.148.48.15/Sapfir/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="sapfir" tvg-name="Сапфир HD", Сапфир HD
+http://93.113.203.165/iptv/F5BM9GXMAPYBDK/6389/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="ch549" tvg-name="ch549" tvg-logo="http://1usd.tv/images/chIcons/549.png" timeshift="3", UDAR TV HD
+http://1.1usd.tv/ch549/mono.m3u8?token=1usdtv_mama_34394_1.v2_6iyghYVaXz-sJJ3Wxo5D3RO4kz3qdsAnIgDIupTZ_P1yKegpDC-R1nuH148t0IQJ6wlPS14qag0pMl6PXIzv6PygCXI
+#EXTINF:-1 group-title="Федеральные" tvg-id="match-nash-sport", Матч! Страна
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="super", Суббота!
+http://217.114.191.150/Subbota/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="tnt-music" tvg-logo="https://epgx.site/p/tnt-music.png", ТНТ Music
+http://195.26.83.96:7029/play/9
+#EXTINF:-1 group-title="Федеральные" tvg-id="tnt-music", ТНТ Music HD
+http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="match-boets", МАТЧ! БОЕЦ
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="Федеральные", Матч! Премьер
+http://185.58.205.1:4022/udp/224.0.91.68:1234
+#EXTINF:-1 group-title="Федеральные", Матч! Премьер HD
+http://185.58.205.1:4022/udp/224.0.90.123:1234
+#EXTINF:-1 group-title="Федеральные" tvg-id="match-planeta", МАТЧ! ПЛАНЕТА
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="Федеральные" tvg-id="yu", Ю
+http://178.134.1.158:8081/U/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="rbk", РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="rbk" tvg-logo="http://rafail1982.uz/logo/РБК HD.png", РБК HD
+http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="rbk", РБК (Санкт-Петербург) FD
+https://online-video.rbc.ru/spb/3/chunklist.m3u8
+#EXTINF:-1 group-title="Федеральные", RU TV
+http://5.188.159.128:8070/rutv/index.m3u8
+#EXTINF:-1 group-title="Федеральные", RU TVᴴᴰ
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-rec="0", Аппетитный HD
+http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/9067/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="moskva-24", Москва 24
+http://194.32.242.245/moskva24/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="detsky-mir", Детский Мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1 group-title="Федеральные" tvg-id="detsky-mir", Детский мир HD
+http://185.58.205.1:4022/udp/224.0.90.121:1234
+#EXTINF:-1 group-title="Федеральные" tvg-id="ruskorabl", Плюс Минус 16 SD
+http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
