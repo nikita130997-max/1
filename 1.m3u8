@@ -338,3 +338,83 @@ http://158.101.222.193:88/georgia_play.php?id=detskymir
 http://185.58.205.1:4022/udp/224.0.90.121:1234
 #EXTINF:-1 group-title="Федеральные" tvg-id="ruskorabl", Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="4kanal-piatnica" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png", 4 КАНАЛ (ЕКАТЕРИНБУРГ) FD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="moigorod", МОЙ ГОРОД (КУШВА) SD
+http://85.208.223.249:8888/play/a033
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-eburg" tvg-logo="http://epg.one/img2/6682.png", ОТВ (ЕКАТЕРИНБУРГ) SD
+https://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg_radio" tvg-logo="https://dl.dropboxusercontent.com/s/vuebqxj8rldcig9/gorod-fm.gif", Радио Город FM (ЕКБ) HD
+http://www.gorodfm.ru/hls/test.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png", Урал 24 (Челябинск) FD
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_URAL24_CHEL.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png", УРАЛ 24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="echotv24" tvg-logo="https://iptvx.one/picons/echotv24.png", Эхо ТВ 24 (Новоуральск)
+http://dmitry-tv.ddns.net/hls/region/CH_ECHOTV24_NURLSK.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg", HAPPY RADIO HD
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/7606.png", Новое телевидение SD
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1 group-title="Музыка", МАНАС (KG) SD
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="31-kanal-kz", 31 канал
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=6&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 group-title="Казахстан" tvg-id="7kanal-kz" tvg-logo="https://iptvx.one/picons/7kanal-kz.png", 7 канал
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=4&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 group-title="Казахстан" tvg-id="abaitv" tvg-logo="https://iptvx.one/picons/abaitv.png", Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://iptvx.one/picons/abaitv.png", Abai TV HD
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Казахстан", Astana TV
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=9&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://iptvx.one/picons/balapan.png", Balapan HD
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="kazakh-tv" tvg-logo="http://s.oktv.kz/tvlogo/jibekjoly.png", Jibek Joly
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=159&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png", Jibek Joly HD
+https://stream.qazcdn.net/ex6r514/jjtv/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Казахстан", MTRK
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="kazakhstan", QAZAQSTAN
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=1&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.one/img2/2569.png", QAZAQSTAN International HD
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="kazsport", QazSport
+http://87.76.32.36:8001/qazsport
+#EXTINF:-1 group-title="Казахстан" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Jibek Joly HD KZ.png", Radio Jibek Joly HD
+https://stream.qazcdn.net/ex6r514/D0Ik7bYjFJq/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://iptvx.one/picons/silkway.png", Silk Way (Rus) HD
+http://pop3.akamaized.net/SilkwayRussia.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://iptvx.one/picons/silk-way-cinema.png", Silk Way Cinema HD
+https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Казахстан", TV Line (Лисаковск)
+https://otv.wotom.net/tvline/stream.m3u8
+#EXTINF:-1 group-title="Казахстан", Zhuldyz TV (KZ)
+https://sitv.ru/hls/s86128.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://iptvx.one/picons/alautv.png", Алау (Костанай)
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="ktk-kz", КТК
+http://wz-kt.ktk.kz/ktklive/live.lq/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан", КТК HD
+http://89.218.30.37/ktklive/live.hd/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан", МТРК
+http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="mir-kz" tvg-logo="https://iptvx.one/picons/mir.png", Мир Kz
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+#EXTINF:-1 group-title="Казахстан", НТК (Нижнеудинск)
+http://171.22.212.250/NTK/index.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://iptvx.one/picons/rika.png", РИКА ТВ (Актобе) SD
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Твое ТВ KZ.png", ТВОЁ ТВ (Темиртау)
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=21&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://iptvx.one/picons/tdk-42.png", ТДК 42 (Уральск) SD
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="xabar24", Хабар 24
+http://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.one/img2/2576.png", Хабар HD
+http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
+#EXTINF:-1 group-title="Киргизия" tvg-id="silkway" tvg-logo="https://iptvx.one/picons/silkway.png", Silk Way (KG) HD
+http://pop3.akamaized.net/SilkwayKyrgyz.m3u8
+#EXTINF:-1 group-title="Киргизия" tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png", TV1 KG HD
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
