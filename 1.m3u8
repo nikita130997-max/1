@@ -418,6 +418,28 @@ https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 http://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://static.tildacdn.net/tild6563-6331-4239-b637-636534616138/1_.jpg", 1MED TV HD
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="ldpr-tv", ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img2/2465.png", ЛДПР ТВᴴᴰ
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="pro-business", ПРО БИЗНЕС
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="rzhd-tv" tvg-logo="http://epg.cdntv.online/img/962.png", РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="rzhd-tv", РЖД ТВ HD
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", ОСН HD
+http://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/prnk-tv.png", ПРНК SD
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 group-title="Позновательные" tvg-id="rtvi", RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1 group-title="Позновательные" tvg-logo="http://epg.one/img2/2398.png", ВМЕСТЕ:РФ
+http://hls.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 group-title="Позновательные", ВМЕСТЕ:РФ HD
+http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", KALOOPY
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png", АвтоГид SD
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png", K-pop girls SD
@@ -438,8 +460,6 @@ http://tinyurl.com/TvZaTak20/ushba31/tracks-v1a1/mono.m3u8
 http://tinyurl.com/TvZaTak20/ushba44/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg", Тик Ток
 http://tinyurl.com/TvZaTak20/ushba61/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg", 𝗖п𝗼𝗽т
-http://tinyurl.com/TvZaTak20/ushba46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg", Мода 1
 http://tinyurl.com/TvZaTak20/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg", Мода 2
@@ -584,6 +604,14 @@ https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", МОДА 5
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", OVAA TV SD
+http://vod.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ОСН HD
+http://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/prnk-tv.png", ПРНК SD
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/echotv.png", ЭХО ТВ FD
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-scifi", .Sci-Fi
 http://193.25.8.59:8000/axn
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-turbo", .black
@@ -1030,6 +1058,8 @@ http://tinyurl.com/TvZaTak20/ushba5/tracks-v1a1/mono.m3u8
 https://s.catcast.tv/content/43064/index.m3u8?token=12e9b4b3f3c1a94794e26197460d95c6
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino-premium", Дом Кино Премиум HD
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="krasnaya-linia" tvg-logo="http://epg.one/img2/2476.png", КРАСНАЯ ЛИНИЯ
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="360-news", 360.RU НОВОСТИ SD
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="360-news", 360.RU НОВОСТИᴴᴰ
@@ -1052,6 +1082,8 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 https://autopilot.catcast.tv/content/41669/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="360-podmoskovie" tvg-logo="http://epg.one/img2/2265.png", 360.RU HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Новости", TV BRICS Russia
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg", Овертайм
@@ -1094,6 +1126,58 @@ http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football3", МАТЧ! ФУТБОЛ 3
 http://185.57.68.33:80/110/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/sky-sports-f1-uhd-uk.png", Sky Sport F1ᵁᴴᴰ
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Релакс", AQUARIUM SD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png", Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg", Classical Harmony HD
+https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://hhq.tv/images/hhq-logo.png", HHQ HD
+https://stream.maxssw.com/hhq/live/chunklist.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png", HOLIDAYSCAPES HD
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg", NATURAL BEAT RECORD SD
+https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png", Naturescapeᴴᴰ
+https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/10/17/1017237de47e769c39708710bb89d188.jpg", OCEAN
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/698be388-6e91-46d9-b2dc-d617aaa8bd75/1.m3u8
+#EXTINF:-1 group-title="Релакс", RELAX HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Релакс" tvg-id="Sochi Live" tvg-logo="http://epg.one/img2/6035.png", SOCHI LIVE SD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png", Stingray Holidayscapesᴴᴰ
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png", Stingray The Spaᴴᴰ
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
+#EXTINF:-1 group-title="Релакс", Study Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/75d17a68-7d85-40b6-a989-af1865334690/1.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png", THE SPA HD
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img/3610.png", TV Camᴴᴰ
+http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img2/6023.png", The 360 Channel SD
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 group-title="Релакс", VIP HD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
+#EXTINF:-1 group-title="Релакс", ZenLIFE HD
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Релакс", Рифыᴴᴰ
+https://5ad79df289937.streamlock.net/Aquarium-WebCams/Secret-Reef.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg", 浙江-乌镇全景 HD
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/b7/fc/b7fc29123ab95b0ad408e42280ad1b71.jpg", 湖南-天门山西线玻璃栈道 HD
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/73/77/737776cf5dd2ec3656b7c7a1e1141784.jpg", 湖南-张家界将军列队 SD
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.postimg.cc/qBPvTvcF/1.jpg", 𝙏𝙫𝙕𝙖𝙏𝙖𝙠
+http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-id="quadro4k" tvg-logo="https://iptvx.one/picons/quadro4k.png", QUADRO 4K
+https://livetv.mylifeisgood.net.ru/channels/dd3f71bc102eed2448b1efec8696cf22.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg", Ushba TV 4K
+https://rpn3.bozztv.com/dvrfl07/ushba47/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="4kanal-piatnica" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png", 4 КАНАЛ (ЕКАТЕРИНБУРГ) FD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="moigorod", МОЙ ГОРОД (КУШВА) SD
@@ -1144,6 +1228,30 @@ http://dmitry-tv.ddns.net/hls/region/CH_SHAYAN_KZN.m3u8
 http://dmitry-tv.ddns.net/hls/region/CH_SHAYANHD_KZN.m3u8
 #EXTINF:-1 group-title="Региональные", MNB Sport HD
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.one/img2/2478.png", ХУЗУР ТВᴴᴰ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://1lot.tv/ch/9669.png", TV BRICS (China) HD
+http://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://1lot.tv/ch/9669.png", TV BRICS (English) HD
+http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://1lot.tv/ch/9669.png", TV BRICS (Espanol) HD
+http://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://1lot.tv/ch/9669.png", TV BRICS (Portugal) HD
+http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://1lot.tv/ch/9669.png", TV BRICS (Spanish) HD
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.imgur.com/pVPTl8J.png", Za! TV
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/krasnodar.png", КРАСНОДАРᴴᴰ
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="lot-47", Лен ТВ 24 HD
+http://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
+#EXTINF:-1 group-title="Региональные", САНКТ-ПЕТЕРБУРГ SD
+https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream2/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only4.tv/ch/1825.png", САНКТ-ПЕТЕРБУРГᴴᴰ
+https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8?e=1738163291&s=613
+#EXTINF:-1 group-title="Региональные" tvg-id="sochi24", СОЧИ 24 SD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/38Q5L5W.png", Birma Play HD
 https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png", Classic Music SD
@@ -1206,52 +1314,242 @@ https://autopilot.catcast.tv/content/40730/index.m3u8
 https://autopilot.catcast.tv/content/41648/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.one/img2/6266.png", Музыка 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Релакс", AQUARIUM SD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png", Better Life Nature Channel
-https://tgn.bozztv.com/betterlife/betternature/betternature/playlist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg", Classical Harmony HD
-https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://hhq.tv/images/hhq-logo.png", HHQ HD
-https://stream.maxssw.com/hhq/live/chunklist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png", HOLIDAYSCAPES HD
-https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg", NATURAL BEAT RECORD SD
-https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png", Naturescapeᴴᴰ
-https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/10/17/1017237de47e769c39708710bb89d188.jpg", OCEAN
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/698be388-6e91-46d9-b2dc-d617aaa8bd75/1.m3u8
-#EXTINF:-1 group-title="Релакс", RELAX HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 group-title="Релакс" tvg-id="Sochi Live" tvg-logo="http://epg.one/img2/6035.png", SOCHI LIVE SD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png", Stingray Holidayscapesᴴᴰ
-https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
-#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png", Stingray The Spaᴴᴰ
-https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
-#EXTINF:-1 group-title="Релакс", Study Lounge
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/75d17a68-7d85-40b6-a989-af1865334690/1.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png", THE SPA HD
-https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img/3610.png", TV Camᴴᴰ
-http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img2/6023.png", The 360 Channel SD
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 group-title="Релакс", VIP HD
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
-#EXTINF:-1 group-title="Релакс", ZenLIFE HD
-https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Релакс", Рифыᴴᴰ
-https://5ad79df289937.streamlock.net/Aquarium-WebCams/Secret-Reef.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg", 浙江-乌镇全景 HD
-https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/b7/fc/b7fc29123ab95b0ad408e42280ad1b71.jpg", 湖南-天门山西线玻璃栈道 HD
-https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://pic.rutube.ru/video/73/77/737776cf5dd2ec3656b7c7a1e1141784.jpg", 湖南-张家界将军列队 SD
-https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.postimg.cc/qBPvTvcF/1.jpg", 𝙏𝙫𝙕𝙖𝙏𝙖𝙠
-http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/astrahan-live.png", ASTRAKHAN.RU LIVE
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/astrahan-live.png", ASTRAKHAN.RU LIVE HD
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", ATEL TV (Рыбинск) HD
+https://iptv.atel.me/live/123/atel.m3u8
+#EXTINF:-1 group-title="Музыка", MCM (Иркутск) SD
+http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/atv-stavropol.png", АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/atv-stavropol.png", АТВ (Ставрополь) HD
+http://hls.atvmedia.ru/atv.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img/6755.png", ВОЛЖСКИЙ+ HD
+http://flussonic.powernet.com.ru:8080/volplus/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Вести FM FD
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:-1 group-title="Музыка", ДАНЦЕР ТВ Когалым
+https://st-stream.danpro.ru/KG_DantserTV/index.m3u8
+#EXTINF:-1 group-title="Музыка", ДАНЦЕР ТВ Лангепас HD
+https://st-stream.danpro.ru/LG_DantserTV/index.m3u8
+#EXTINF:-1 group-title="Музыка", ДАНЦЕР ТВ Стрежевой
+https://st-stream.danpro.ru/ST_DantserTV/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/evrasia.png", Евразия (Орск) SD
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 group-title="Музыка", Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/video01_480.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Новое Радио ТВ HD
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Радио Китап FM SD
+http://89.251.159.37:8080/hls/kitapfm.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://radiopotok.ru/f/station/512/2367.png", Радио Краснодар HD
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Радио Макс Live FM SD
+http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Радио Мир SD
+http://stream1.dc.beltelecom.by:1935/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="radio-rossii", Радио России
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg", Радио Спутник SD
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Радио Тартип FM HD
+http://89.251.159.37:8080/hls/tartipfm.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="radio-shanson", Радио Шансон SD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Музыка", Радио Юмор FM SD
+http://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/z45byYR/Si-TV-HD-170x170.png", СИ ТВ (Новый Уренгой) HD
+https://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxMZpPeTSC8GPxoZAd1HGRBF9jN0URg6AbwKQT2LXON_X2lLl01ejzP7QYUCcmwM9EOI&usqp=CAU", СИГМА КТВ (Новый Уренгой)
+https://lifecam.sigma-ktv.ru/eshche/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Музыка", СМОТРИ РАДИО SD
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="Музыка", Студия Факт SD
+https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/8ctzKFD6/2024-06-21-210652798.png", ТОСНО ТВ (Лен.обл.)
+http://tosnotv.ru/hlsshare/video.m3u8
+#EXTINF:-1 group-title="Музыка", 1HD Musicᴴᴰ
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Музыка", DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="europa-plus-tv", Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://img.vintera.tv/img/ico/mixm.png", MIXMᴴᴰ
+http://89.179.247.144/hls/mixm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1 group-title="Музыка", Maidan TV SD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Музыка", TMF RUS
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/RenuH4S.png", TNT Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="viva-rus", Viva Russia HD
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/6869.png", Vostok TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="zhara", Жара
+http://31.148.48.15:80/Zhara/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/muzykamodatv.png", ММТВᴴᴰ
+http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/matur-tv.png", Матур ТВᴴᴰ
+http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="la-minor", Музыка Live
+http://31.148.48.15:80/La-Minor_TV/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png", Страна FM SD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", ТУГАН ТЕЛ (КАЗАНЬ) HD
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="shanson-tv", Шансон ТВ
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="o2tv", о2тв
+http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8876.png", 4FUN TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/VCUZKiw.png", ACTIVA TV SD
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/O4uI0Uy.png", ATOMIC
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Музыка", ATOMIC ACADEMY
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/oxkkWH5.png", BALLE BALLE SD
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg", CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg", CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка", CMC TV HD
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="city-tv-bg", City TV
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8851.png", DELUXE MUSIC SD
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/dstv-bg.png", DSTV HD
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.one/img/4673.png", Deejay TV HD
+https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/P5Grkxdw/62c09c8ed74265864f4ac8279fcc63ca.png", Deluxe Dance HD
+https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png", Deluxe Rap HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Digital Black Music HD
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Disco Mix HD
+http://185.128.97.154:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/5LWwtfL/resize-34.png", Dream Turk SD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/61dLgX1/image-23.png", Finest TV
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Музыка", Fun Radio HD
+https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg", GENERATION TV SD
+https://edge18.vedge.infomaniak.com/livecast/ik:generation-tv/chunklist_w961899692.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tlgur.com/d/4z3Xrkk8", Hi Hop TV
+http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/JW7nrmpH/image-2025-07-10-T142513-842.png", Hot Rock TV SD
+https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", IQ Channel SD
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", K-Pop HD
+https://tvradiozap.eu/1295
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/8cmh29Gf/image-2025-07-10-T173800-026.png", Karolina SD
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/NKfVymH.png", Kiss TV  RO HD
+http://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.one/img/4653.png", Kronehit FHD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/DCZKAQ1.png", LITTORAL TV SD
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", M2ROCK SD
+http://49.0.64.96:8007/M2ROCK
+#EXTINF:-1 group-title="Музыка", MCM HD
+http://41.205.93.154/MCM/index.m3u8
+#EXTINF:-1 group-title="Музыка", MUZANGALA HD
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/n7bcrrp.png", Magic TV SD
+https://bss1.neterra.tv/magictv/stream_0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://127.0.0.1/", Makon TV
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="mezzo", Mezzo
+http://185.98.209.11:81/mezzo/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png", Music_1 SD
+https://fl1001.bozztv.com/ushba-t5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png", Music_14 SD
+https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", NM TV SD
+https://tv.a21network.ru/stream/40650/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/LQB6G3s.jpg", POPWORLD TV SD
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png", POWER DANCE HD
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png", POWER TV HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_35.png", POWER TÜRK HD
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", PULSE ROCK HD
+https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=27be3ad2-9e96-4704-9d1c-a14e39190f47&streamSessionId=e06bc853-bdf6-40a7-bd8b-1297e2edbf85&code=TELEATLANTIC&expires=1728345600000&playUrl=true&ctrl=34324b5f8f340cefa3c1da57608b92edc43a0146cfea4ec23f598d0f1d5425a88be9fc02fab522f5318ca0074bf2cb1eac38938bed55763bd6bc0a24854a140d
+#EXTINF:-1 group-title="Музыка", Power Hits Radio FD
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/H1s_0utput/PWR_LTU_Live.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="https://cdn-icons-png.freepik.com/256/9743/9743959.png?semt=ais_hybrid", RADOS TV SD
+https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/retro-music-cz.png", RETRO FD
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+#EXTINF:-1 group-title="Музыка", RTL 102.5 Best HD
+https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="Музыка", RTL 102.5 Bro & Sis HD
+https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="Музыка", RTL 102.5 Caliente HD
+https://streamcdnb3-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="Музыка", RTL 102.5 DISCO HD
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="Музыка", RTL 102.5 HD
+http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png", RTL 102.5 Napulè
+https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 group-title="Музыка", RTL 102.5 TRAFFIC
+http://streamcdng6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="Музыка", Radio 90s FM
+http://prmstrm.1.fm:8000/90s
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/32mmGvB.png", Radio Contact HD
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/F4ZHkcF3/image-2025-07-09-T152629-923.png", Radio GOLD SD
+https://cdn119-it.azotosolutions.com:8443/cdnedge5/smil:live5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8880.png", Radio M2O
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/a6S2Yo4.png", Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/dtq8f51d/image-33.png", Retro Plus SD
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1152211616.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/0NsNLQtj/image-2025-07-10-T180319-934.png", TDI Radio SD
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
+#EXTINF:-1 group-title="Музыка", TMA HD
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="Музыка", TVM3 HD
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:-1 group-title="Музыка", The Voice TV
+https://bss1.neterra.tv/thevoice/stream_1.m3u8
+#EXTINF:-1 group-title="Музыка", Trimedio TV HD
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 group-title="Музыка", Urban Pro
+https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/KsqNpKL/Screenshot-1.png", V SD
+http://185.57.68.33/233/mpegts
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/1fbTZRvp/image-2025-07-09-T150140-049.png", Veseljak HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/NF1hWNCW/image-15.png", Video Tour Channel SD
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png", XITE 80s Flashback HD
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png", XITE 90s Throwback HD
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png", XITE Celebrates HD
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png", XITE Hits HD
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg", ЗОНА М1 TV SD
+https://zonam1.ddns.net/hls/stream1.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics" tvg-logo="http://1lot.tv/ch/9665.png", Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ducktv" tvg-logo="https://i.imgur.com/gRFQ35W.png", Duck TV SD
@@ -1282,6 +1580,42 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 http://185.46.16.239:8000/Detskiy
 #EXTINF:-1 group-title="Детские" tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Религиозные", Impact TV HD
+http://glorystartv.live/Impact/index.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="http://epg.one/img2/2136.png", LIFE TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/rKBaK56.png", TBN BALTIA HD
+http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23423/logo_256_1709560054.png", БЛАГАЯ ВЕСТЬᴴᴰ
+https://bv.mediacdn.ru/cdn/blagvest/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Религиозные", Вера 24 SD
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="http://epg.one/img2/2413.png", МузСоюзᴴᴰ
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Религиозные" tvg-id="nadezhda", Надежда
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-id="simpleTVFakeEpgId" tvg-logo="https://4.imimg.com/data4/TV/CX/MY-12278352/cctv-camera-office-250x250.jpg", Пловдивска Православна ТВ
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://static.tildacdn.com/tild3463-6266-4664-a637-333161383337/3c484c65a2d021a349aa.jpg", Радио Воскресение*
+https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://sun1-27.userapi.com/K00RzIbIRMgpmKk5gMyIlZ_XuwhfIeOk_ID50g/WKEk93tgVTQ.jpg", Радио Град Петров*
+https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
+#EXTINF:-1 group-title="Религиозные", Радость Моя FD
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-id="soyuz", Союз
+http://193.25.8.59:8000/soyuz
+#EXTINF:-1 group-title="Религиозные" tvg-logo="http://1lot.tv/ch/6548.png", СОЮЗᴴᴰ
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", Славянский Мир SD
+https://n1.slavmir.tv/live/ngrp:Cinegy.stream_all/chunklist_w54382310_b5256000.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://iptvx.one/picons/tbn-ru.png", ТБН SD
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="http://img.vintera.tv/img/ico/tbv.png", ТБВ HD
+http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/fACHqmY.png", ТВ МАНА ВАШ HD
+https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-id="tri-angela", Три Ангела SD
+https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="СНГ", 1 არხი SD (GR)
 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="СНГ", 1 არხი განათლება SD (GR)
@@ -1656,3 +1990,9 @@ http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="Иностранные", TELEMAGAZ
 http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 group-title="Иностранные" tvg-logo="https://i.imgur.com/PruXLqS.png", MANÁ TSERKOV SD
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 group-title="Иностранные", TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:-1 group-title="Иностранные" tvg-logo="https://i.imgur.com/XzAYOFK.png", TV ХРАМ
+https://vod1.laki.eu/live/hram/index.m3u8
